@@ -3,11 +3,54 @@
     padding: 0px;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .map {
     width: 100vw;
     height: 100vh;
-    background-color: blue;
+    background-color: #E8EADE;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.map iframe {
+    border: 1% dotted #4D6A79;
+}
+
+#line-suburban {
+    background-color: #F3810C;
+    border: 1px solid #F3810C;
+}
+
+#line-cmrl-1 {
+    background-color: #097138;
+    border: 1px solid #097138;
+}
+
+#line-cmrl-2 {
+    background-color: #0288D1;
+    border: 1px solid #0288D1;
+}
+
+#line-cmrl-3 {
+    background-color: #693CB8;
+    border: 1px solid #693CB8;
+}
+
+#line-cmrl-4 {
+    background-color: #F48FB1;
+    border: 1px solid #F48FB1;
+}
+
+#line-cmrl-5 {
+    background-color: #B4B93C;
+    border: 1px solid #B4B93C;
+}
+
+#line-mrts {
+    background-color: #757575;
+    border: 1px solid #757575;
 }
