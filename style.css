@@ -20,37 +20,37 @@ body {
     border: 1% dotted #4D6A79;
 }
 
-#line-suburban {
+#line-suburban hr {
     background-color: #F3810C;
     border: 1px solid #F3810C;
 }
 
-#line-cmrl-1 {
+#line-cmrl-1 hr {
     background-color: #097138;
     border: 1px solid #097138;
 }
 
-#line-cmrl-2 {
+#line-cmrl-2 hr {
     background-color: #0288D1;
     border: 1px solid #0288D1;
 }
 
-#line-cmrl-3 {
+#line-cmrl-3 hr {
     background-color: #693CB8;
     border: 1px solid #693CB8;
 }
 
-#line-cmrl-4 {
+#line-cmrl-4 hr {
     background-color: #F48FB1;
     border: 1px solid #F48FB1;
 }
 
-#line-cmrl-5 {
+#line-cmrl-5 hr {
     background-color: #B4B93C;
     border: 1px solid #B4B93C;
 }
 
-#line-mrts {
+#line-mrts hr {
     background-color: #757575;
     border: 1px solid #757575;
 }
