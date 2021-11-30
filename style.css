@@ -119,12 +119,20 @@ footer {
     display: flex;
     align-items: center;
 }
+@media screen and (max-width: 780px) {
+    footer {
+    align-items: inherit;
+        height: 7vh;
+    }
+}
+
 
 footer h4 {
     padding-left: 10px;
     font-family: sans-serif;
     font-weight: lighter;
 }
+
 
 footer h4 a {
     color: black;
