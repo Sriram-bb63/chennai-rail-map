@@ -111,3 +111,21 @@ body {
 #line-mrts:after {
     border-color: #757575;
 }
+
+footer {
+    width: 100vw;
+    height: 5vh;
+    background-color: #d9dab0;
+    display: flex;
+    align-items: center;
+}
+
+footer h4 {
+    padding-left: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+footer h4 a {
+    color: black;
+}
