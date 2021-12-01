@@ -16,7 +16,15 @@ body {
     align-items: center;
 }
 
+.map iframe {
+    border: 2px dashed #696969;
+    width: 95%;
+    height: 95%;
+}
+
 .guide {
+    width: 100vw;
+    /* height: 80vh; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,6 +32,7 @@ body {
 
 .guide div {
     width: 95%;
+    height: 95%;
     border: 2px dashed #696969;
 }
 
@@ -136,4 +145,8 @@ footer h4 {
 
 footer h4 a {
     color: black;
+}
+
+footer span {
+    color: rgb(206, 52, 52);
 }
